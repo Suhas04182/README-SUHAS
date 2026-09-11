@@ -18,7 +18,7 @@ calculation of SGPA and CGPA, eliminating
 manual calculations entirely.           
 • URL: [CGPA/SGPA CALCULATE](https://gpacalculator-abc.vercel.app/)        
 • Technology Stack: HTML, CSS, JavaScript, GitHub
- 
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_suhas_159) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhas-rajput-02019632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputsing596@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Suhas04182)
